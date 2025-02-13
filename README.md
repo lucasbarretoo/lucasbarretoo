@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbarretoo)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @lucasbarretoo
 - 👀 I’m interested in PHP-Laravel, SQL-Postgre, Javascript, 
 - 🌱 I’m currently learning ...
