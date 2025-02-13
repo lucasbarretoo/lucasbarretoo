@@ -1,7 +1,7 @@
 
 <div align="center" >
   <a href="https://github.com/lucasbarretoo/lucasbarretoo">
-    <img height="200" width="395px" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasbarretoo&count_private=true&include_all_commits=true&show_icons=true&theme=one_dark_pro" />
+    <img height="200" width="395px" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasbarretoo&include_all_commits=true&show_icons=true&theme=one_dark_pro" />
   </a>
   <a href="https://github.com/lucasbarretoo/lucasbarretoo">
     <img height="200" width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarretoo&layout=compact&theme=one_dark_pro&count_private=true" />
