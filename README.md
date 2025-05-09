@@ -1,4 +1,5 @@
-
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  
 ## 🚀 About me
 💙 Hey there! I’m Lucas Barreto! 
 
